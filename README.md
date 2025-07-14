@@ -39,37 +39,21 @@
 ### ✅ Proficient In  
 > **직접 프로젝트 또는 실무에 사용한 경험이 있는 주요 기술**
 
-<img src="https://img.shields.io/badge/Python-8B4513?style=flat-square&logo=Python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VSCode-A0522D?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jupyter-D2691E?style=flat-square&logo=Jupyter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Google_Colab-F4A460?style=flat-square&logo=Google%20Colab&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-CD5C5C?style=flat-square&logo=Git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-3E2C23?style=flat-square&logo=GitHub&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-8B4513?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-A0522D?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-D2691E?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F4A460?style=flat-square&logo=Google%20Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Git-CD5C5C?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-3E2C23?style=flat-square&logo=GitHub&logoColor=white"/>  
 
 ---
 
 ### 🌱 Familiar With  
 > **학습/실습 경험은 있지만 실제 프로젝트 사용 비중은 낮은 기술**
 
-<img src="https://img.shields.io/badge/Java-8B4513?style=flat-square&logo=OpenJDK&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F5DEB3?style=flat-square&logo=JavaScript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-CD853F?style=flat-square&logo=HTML5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-DEB887?style=flat-square&logo=CSS3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/RaspberryPi-A0522D?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-8B4513?style=flat-square&logo=MySQL&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Tableau-D2691E?style=flat-square&logo=Tableau&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-8B4513?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F5DEB3?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-CD853F?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-DEB887?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A0522D?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-8B4513?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-D2691E?style=flat-square&logo=Tableau&logoColor=white"/>  
 
 ---
 
 ### 🖥 Virtualization & Remote Tools  
 > **원격 접속 및 가상화 환경 설정에 활용한 도구들**
 
-<img src="https://img.shields.io/badge/RealVNC-6B4226?style=flat-square&logo=RealVNC&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Tera_Term-8B7355?style=flat-square&logo=Tera_Term&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VirtualBox-5C4033?style=flat-square&logo=VirtualBox&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VMware-A0522D?style=flat-square&logo=VMware&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Linux-F4A460?style=flat-square&logo=Linux&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Ubuntu-DEB887?style=flat-square&logo=Ubuntu&logoColor=white"/>  
+<img src="https://img.shields.io/badge/RealVNC-6B4226?style=flat-square&logo=RealVNC&logoColor=white"/> <img src="https://img.shields.io/badge/Tera_Term-8B7355?style=flat-square&logo=Tera_Term&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-5C4033?style=flat-square&logo=VirtualBox&logoColor=white"/> <img src="https://img.shields.io/badge/VMware-A0522D?style=flat-square&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-F4A460?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-DEB887?style=flat-square&logo=Ubuntu&logoColor=white"/>  
 
 ---
 <br>
