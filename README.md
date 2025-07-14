@@ -1,19 +1,13 @@
-<div style="font-family: 'Fira Code', monospace;">
+
   
-![header](https://capsule-render.vercel.app/api?type=venom&height=280&text=Welcome%20to%20Taeyeon's%20GitHub&fontSize=50&fontColor=78F9F9&color=0:8E44AD,100:E84393&stroke=E84393)
+![header](https://capsule-render.vercel.app/api?type=venom&height=280&text=Welcome%20to%20Taeyeon's%20GitHub&fontSize=50&fontColor=F5DEB3&color=0:3E2C23,100:5C4033&stroke=D2691E)
 
 ## 🤔 Github Stats
 
-<a href="https://github.com/xodus123">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=xodus123&show_icons=true&theme=radical" alt="TY's github stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodus123&layout=compact&title_color=D2691E&text_color=F5DEB3&bg_color=3E2C23&border_color=F4A460)
 
-<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xodus123&show_icons=true&title_color=D2691E&text_color=F5DEB3&icon_color=F4A460&bg_color=3E2C23&border_color=D2691E)
 
-<a href="https://github.com/xodus123">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodus123&layout=compact&theme=radical" alt="Top languages used by TY" />
-</a>
-</div>
 <br>
 
 ---
