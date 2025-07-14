@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Taeyeon's%20GitHub&fontSize=70&color=0:8e44ad,100:e84393&stroke=e84393)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Welcome%20to%20Taeyeon's%20GitHub&fontSize=55&color=0:8e44ad,100:e84393&stroke=e84393)
+
 
 
 
