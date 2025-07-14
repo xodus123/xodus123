@@ -3,7 +3,7 @@
     src="./assets/Welcome_Animation_simple.gif"
     alt="Welcome to Taeyeon's GitHub"
     width="100%" 
-    style="border-radius: 20px; max-width: 900px; height: 350px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    style="border-radius: 20px; max-width: 900px; height: 380px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 
