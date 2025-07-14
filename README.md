@@ -1,14 +1,7 @@
-<div align="center">
-  <img 
-    src="./assets/imge.png"
-    alt="Welcome to Taeyeon's GitHub"
-    width="100%" 
-    style="border-radius: 20px; max-width: 900px; height: 250px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20Taeyeon's%20GitHub&fontSize=70&color=0:8e44ad,100:e84393&stroke=e84393)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F794EC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Taeyeon.;AI+%26+Data+Science+Enthusiast." />
-</div>
+
+
 
 ## 🤔 Github Stats
 
