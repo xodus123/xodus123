@@ -16,9 +16,13 @@
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=xodus123&show_icons=true&theme=radical" alt="TY's github stats" />
 </a>
 
+<br>
+
 <a href="https://github.com/xodus123">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodus123&layout=compact&theme=radical" alt="Top languages used by TY" />
 </a>
+
+<br>
 
 ---
 <br>
