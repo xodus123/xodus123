@@ -3,11 +3,11 @@
     src="./assets/Welcome_Animation_simple.gif"
     alt="Welcome to Taeyeon's GitHub"
     width="100%" 
-    style="border-radius: 20px;  object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    style="border-radius: 20px; max-width: 900px; height: 250px; object-fit: cover;box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F794EC&center=true&vCenter=true&width=435&lines=Hi!+I'm+Taeyeon.;AI+%26+Data+Science+Enthusiast.;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF4F9B&center=true&vCenter=true&width=435&lines=Hi!+I'm+Taeyeon.;AI+%26+Data+Science+Enthusiast.;" />
 </div>
 
 ## 🤔 Github Stats
