@@ -5,8 +5,8 @@
 
 <!-- GitHub 활동 통계 -->
 <a href="https://github.com/xodus123">
-  <img align="center" style="height:180px;" 
-       src="https://github-readme-stats.vercel.app/api?username=xodus123&show_icons=true&title_color=8B4513&text_color=3E2C23&icon_color=DAA520&bg_color=FFF5E1&border_color=D2691E" 
+  <img align="center" style="height:180px;border:2px solid #D2691E;border-radius:6px;" 
+       src="https://github-readme-stats.vercel.app/api?username=xodus123&show_icons=true&title_color=8B4513&text_color=3E2C23&icon_color=DAA520&bg_color=FFF5E1&border_color=FFF5E1" 
        alt="TY's github stats" />
 </a>
 
@@ -14,10 +14,11 @@
 
 <!-- 가장 많이 사용한 언어 -->
 <a href="https://github.com/xodus123">
-  <img align="center" style="height:180px;" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodus123&layout=compact&title_color=8B4513&text_color=3E2C23&bg_color=FFF5E1&border_color=D2691E" 
+  <img align="center" style="height:180px;border:2px solid #D2691E;border-radius:6px;" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodus123&layout=compact&title_color=8B4513&text_color=3E2C23&bg_color=FFF5E1&border_color=FFF5E1" 
        alt="Top languages used by TY" />
 </a>
+
 
 ---
 <br>
